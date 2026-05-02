@@ -29,10 +29,10 @@ displayName = "IllagerBlabber" #mandatory
 # A text field displayed in the mod UI
 #credits="" #optional
 # A text field displayed in the mod UI
-authors = "" #optional
+authors = "okay_, Leclowndu93150, Ronalonis" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
-description = ''''''
+description = '''Adds dynamically yapping Illagers! Why? Glad you asked!'''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
 [[mixins]]
