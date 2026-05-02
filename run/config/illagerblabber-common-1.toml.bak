@@ -1,0 +1,30 @@
+# Default: 30
+# Range: > 0
+passive_min = 30
+# Default: 60
+# Range: > 0
+passive_random = 60
+# Default: 40
+# Range: > 0
+combat_min = 40
+# Default: 60
+# Range: > 0
+combat_random = 60
+# Default: 100
+# Range: > 0
+spotted_min = 100
+# Default: 40
+# Range: > 0
+spotted_random = 40
+# Default: 20
+# Range: > 0
+hurt_min = 20
+# Default: 20
+# Range: > 0
+hurt_random = 20
+# Default: 40
+# Range: > 0
+victory_min = 40
+# Default: 20
+# Range: > 0
+victory_random = 20

@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ronalonis.illagerblabber.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EvokerMixin",
+    "PillagerMixin",
+    "RaiderMixin",
+    "VindicatorMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
